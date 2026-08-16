@@ -38,3 +38,6 @@ sales-dashboard/
 - Revenue, returns, and net revenue are estimates, not audited transaction figures.
 - The source dataset has no region, state, city, customer location, or date field. Therefore, a truthful regional or time-series sales analysis is not included.
 - This dashboard is appropriate for exploratory analysis and portfolio demonstration, not financial reporting.
+
+## Live Deployment of the Dashboard
+-https://fastidious-churros-4ee0ce.netlify.app/
